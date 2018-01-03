@@ -6,6 +6,10 @@
 
 **_cd zsh-config_**
 
+**_chmod +x awesome.sh_**
+
+**_./awesome.sh_**
+
 **_sudo mv sys113.zsh-theme ~/.oh-my-zsh/themes/_**
 
 **_cd ~/_**
