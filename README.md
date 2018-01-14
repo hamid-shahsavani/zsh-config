@@ -19,7 +19,7 @@
 
 **_sudo nano .zshrc_**
 
-find in **_.zshrcـ** line **ـZSH_THEME="theme"_** and change to **ـZSH_THEME="sys113"_**
+**find in _.zshrc_ line _ZSH_THEME="theme"_ and change to _ZSH_THEME="sys113"_**
 
 ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️
 
